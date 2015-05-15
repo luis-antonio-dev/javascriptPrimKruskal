@@ -1,5 +1,3 @@
-# javascriptPrimKruskal
-
 Autor: Filipe Roberto Silva
 Algoritmos de Árvore Geradora Mínima. Prim e Kruskal.
 
@@ -13,5 +11,4 @@ OBS.:
 Os algoritmos estão implementados nos arquivos .js de respectivos nomes. (prim.js e kruskal.js)
 Os dados dos grafos estão em grafos.js
 graphBuilder.js é utilizado para desenhar os grafos na interface.
-
 
