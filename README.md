@@ -1,0 +1,2 @@
+# javascriptPrimKruskal
+javascriptPrimAndKruskal
